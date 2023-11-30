@@ -2,7 +2,9 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section className='bg-[url(/heroMain.jpg)] bg-repeat bg-cover'>
+        <img src="/heroIpar.jpg" alt=""/>
+    </section>
   )
 }
 

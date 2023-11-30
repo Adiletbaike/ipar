@@ -26,11 +26,11 @@ const Products = () => {
                 сельдерей, шиповник и барбарис.
               </p>
             </div>
-            <div className="flex justify-start">
+            <div className="flex justify-start mt-2">
               <button className="inline-flex text-black bg-green-400 hover:bg-green-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996778217044?text=Здравствуйте!%20%0AКолон+Клинс+3450₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AКолон+Клинс+3450₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsWhatsapp className="m-1 ml-2 text-xs" />
@@ -39,7 +39,7 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996770023478?text=Здравствуйте!%20%0AКолон+Клинс+3450₽%20`}
+                  href={`https://t.me/79637756665?text=Здравствуйте!%20%0AКолон+Клинс+3450₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
@@ -65,11 +65,11 @@ const Products = () => {
                 крови.
               </p>
             </div>
-            <div className="flex justify-start">
+            <div className="flex justify-start mt-2">
               <button className="inline-flex text-black bg-green-400 hover:bg-green-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996778217044?text=Здравствуйте!%20%0AФолиевая+кислота+Железо+1980₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AФолиевая+кислота+Железо+1980₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsWhatsapp className="m-1 ml-2 text-xs" />
@@ -78,7 +78,7 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996770023478?text=Здравствуйте!%20%0AФолиевая+кислота+Железо+1980₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AФолиевая+кислота+Железо+1980₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
@@ -102,11 +102,11 @@ const Products = () => {
                 энзимов.
               </p>
             </div>
-            <div className="flex justify-start">
+            <div className="flex justify-start mt-2">
               <button className="inline-flex text-black bg-green-400 hover:bg-green-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996778217044?text=Здравствуйте!%20%0AЦинк+1980₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AЦинк+1980₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsWhatsapp className="m-1 ml-2 text-xs" />
@@ -115,7 +115,7 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996770023478?text=Здравствуйте!%20%0AЦинк+1980₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AЦинк+1980₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
@@ -142,11 +142,11 @@ const Products = () => {
                 желёз.
               </p>
             </div>
-            <div className="flex justify-start">
+            <div className="flex justify-start mt-2">
               <button className="inline-flex text-black bg-green-400 hover:bg-green-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996778217044?text=Здравствуйте!%20%0AРозовое+масло+4450₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AРозовое+масло+4450₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsWhatsapp className="m-1 ml-2 text-xs" />
@@ -155,7 +155,7 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996770023478?text=Здравствуйте!%20%0AРозовое+масло+4450₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AРозовое+масло+4450₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
@@ -182,11 +182,11 @@ const Products = () => {
                 масло, витамин Е. Твоя находка для женского здоровья.
               </p>
             </div>
-            <div className="flex justify-start">
+            <div className="flex justify-start mt-2">
               <button className="inline-flex text-black bg-green-400 hover:bg-green-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996778217044?text=Здравствуйте!%20%0ASuncella+2700₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0ASuncella+2700₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsWhatsapp className="m-1 ml-2 text-xs" />
@@ -195,7 +195,7 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996770023478?text=Здравствуйте!%20%0ASuncella+2700₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0ASuncella+2700₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
@@ -208,7 +208,7 @@ const Products = () => {
               <img
                 alt="products"
                 className="object-cover object-center w-full h-full block"
-                src="/6.jpg"
+                src="/5.jpg"
               />
             </a>
             <div className="mt-4">
@@ -222,11 +222,11 @@ const Products = () => {
                 проблемы.
               </p>
             </div>
-            <div className="flex justify-start">
+            <div className="flex justify-start mt-2">
               <button className="inline-flex text-black bg-green-400 hover:bg-green-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996778217044?text=Здравствуйте!%20%0ASuncella+1980₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0ASuncella+1980₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsWhatsapp className="m-1 ml-2 text-xs" />
@@ -235,7 +235,7 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/996770023478?text=Здравствуйте!%20%0ASucella+1980₽%20`}
+                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0ASucella+1980₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
