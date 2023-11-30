@@ -13,7 +13,7 @@ const layout = ({children}) => {
       </head>
       <html lang="en" className="!scroll-smooth">
         <body>
-            <Header/>
+            {/* <Header/> */}
             <Hero/>
             <Products/>
             <Footer/>
