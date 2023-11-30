@@ -39,7 +39,7 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://t.me/79637756665?text=Здравствуйте!%20%0AКолон+Клинс+3450₽%20`}
+                  href={`https://t.me/elya_alimb?text=Здравствуйте!%20%0AКолон+Клинс+3450₽%20`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
                   Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />

@@ -24,7 +24,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://t.me/79637756665" className="flex items-center">
+            <a href="https://t.me/elya_alimb" className="flex items-center">
               <BsTelegram className="border border-white p-1 text-xl rounded-md mr-2" />
               +79067754665
             </a>
