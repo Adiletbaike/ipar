@@ -1,6 +1,6 @@
 import React from "react";
 import { BsWhatsapp } from "react-icons/bs";
-import { BsTelegram  } from "react-icons/bs";
+import { BsTelegram } from "react-icons/bs";
 
 const Products = () => {
   return (
@@ -39,10 +39,10 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://t.me/elya_alimb?text=Здравствуйте!%20%0AКолон+Клинс+3450₽%20`}
+                  href={`https://t.me/elya_alimb`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
-                  Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
+                  Заказать по <BsTelegram className="m-1 ml-2 text-xs" />
                 </a>
               </button>
             </div>
@@ -78,10 +78,10 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AФолиевая+кислота+Железо+1980₽%20`}
+                  href={`https://t.me/elya_alimb`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
-                  Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
+                  Заказать по <BsTelegram className="m-1 ml-2 text-xs" />
                 </a>
               </button>
             </div>
@@ -95,7 +95,9 @@ const Products = () => {
               />
             </a>
             <div className="mt-4">
-              <h2 className="text-gray-900 title-font text-lg font-medium">Цинк</h2>
+              <h2 className="text-gray-900 title-font text-lg font-medium">
+                Цинк
+              </h2>
               <p className="mt-1">1980 ₽</p>
               <p className="h-full md:h-24">
                 Цинк - незаменимый микроэлемент, который входит в более, чем 300
@@ -115,10 +117,10 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AЦинк+1980₽%20`}
+                  href={`https://t.me/elya_alimb`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
-                  Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
+                  Заказать по <BsTelegram className="m-1 ml-2 text-xs" />
                 </a>
               </button>
             </div>
@@ -155,10 +157,10 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0AРозовое+масло+4450₽%20`}
+                  href={`https://t.me/elya_alimb`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
-                  Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
+                  Заказать по <BsTelegram className="m-1 ml-2 text-xs" />
                 </a>
               </button>
             </div>
@@ -177,9 +179,9 @@ const Products = () => {
               </h2>
               <p className="mt-1">2700 ₽</p>
               <p className="h-full md:h-24">
-                Suncella- в виде гели, очень удобно для пользования.
-                Cостав: 150 видов лекарственных трав, кожура гранаты, розовое
-                масло, витамин Е. Твоя находка для женского здоровья.
+                Suncella- в виде гели, очень удобно для пользования. Cостав: 150
+                видов лекарственных трав, кожура гранаты, розовое масло, витамин
+                Е. Твоя находка для женского здоровья.
               </p>
             </div>
             <div className="flex justify-start mt-2">
@@ -195,10 +197,10 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0ASuncella+2700₽%20`}
+                  href={`https://t.me/elya_alimb`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
-                  Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
+                  Заказать по <BsTelegram className="m-1 ml-2 text-xs" />
                 </a>
               </button>
             </div>
@@ -235,10 +237,10 @@ const Products = () => {
               <button className="ml-2 inline-flex text-black bg-blue-400 hover:bg-blue-500 duration-500 border-0 py-1 px-2 focus:outline-none  rounded text-sm">
                 <a
                   target="_blank"
-                  href={`https://wa.me/79637756665?text=Здравствуйте!%20%0ASucella+1980₽%20`}
+                  href={`https://t.me/elya_alimb`}
                   className="inline-flex items-center text-xs md:text-base"
                 >
-                  Заказать по <BsTelegram  className="m-1 ml-2 text-xs" />
+                  Заказать по <BsTelegram className="m-1 ml-2 text-xs" />
                 </a>
               </button>
             </div>
