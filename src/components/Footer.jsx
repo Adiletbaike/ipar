@@ -26,7 +26,7 @@ const Footer = () => {
           <li>
             <a href="https://t.me/elya_alimb" className="flex items-center">
               <BsTelegram className="border border-white p-1 text-xl rounded-md mr-2" />
-              +79067754665
+              +79067756665
             </a>
           </li>
         </ul>
