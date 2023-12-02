@@ -168,7 +168,7 @@ const Products = () => {
               <img
                 alt="products"
                 className="object-cover object-center w-full h-full block"
-                src="/5.jpg"
+                src="/6.jpg"
               />
             </a>
             <div className="mt-4">
